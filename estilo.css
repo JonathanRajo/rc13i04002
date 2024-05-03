@@ -1,0 +1,9 @@
+section{
+    background: red;
+    height: 500px;
+    position: relative;
+}
+img{
+    position: absolute;
+    bottom: 0;
+}
